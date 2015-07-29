@@ -9,6 +9,7 @@ You can check out all the information about Chosen at http://harvesthq.github.io
 
 #### Playground
 
-I wanted to make a select box that contained links to other pages. This will serve as a very rough and basic functional prototype for a larger project.
+I wanted to make a select box that contained links to other pages. 
+This will serve as a very rough and basic functional prototype for a larger project.
 
 A very simple implementation of an onchange event attribute og the <select> tag.
